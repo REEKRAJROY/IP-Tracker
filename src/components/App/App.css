@@ -1,0 +1,80 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Rubik';
+}
+
+.header{
+  width: 100%;
+  height: 250px;
+  background-image: url('/pattern-bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.header h1{
+  text-align: center;
+  font-weight: 300;
+  font-size: 20px;
+  padding-top: 35px;
+  color:white;
+}
+
+.ip-info{
+  width: 70%;
+  height: 120px;
+  margin: 0 auto;
+  position: relative;
+  top: -60px;
+  border-radius: 20px;
+  background-color: white;
+  z-index: 2;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.map{
+  width: 100%;
+  height: 500px;
+  position: absolute;
+  top: 250px;
+  background-color: brown;
+  z-index: 1;
+}
+
+@media only screen and (min-width: 280px) and (max-width:480px){
+  .ip-info{
+    width: 90%;
+    height: 220px;
+    margin: 0 auto;
+    position: relative;
+    top: -110px;
+    border-radius: 20px;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width:880px){
+  .ip-info{
+    width: 60%;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+    top: -100px;
+    border-radius: 20px;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+  }
+}
