@@ -2,13 +2,13 @@
 
 ## Demo
 
-https://user-images.githubusercontent.com/55712612/153426736-0ed42844-350e-4697-893b-103d6e3dee28.mov
 
+
+![IP Address Tracker - 15 February 2022 (1)](https://user-images.githubusercontent.com/55712612/154151917-4ec7da9b-fcdf-426a-a3df-b75ee9c55a5f.gif)
 
 
 
 ### Links
-
 - Live Site URL: [Live site](https://iptrackersawo.netlify.app/)
 
 ## My process
