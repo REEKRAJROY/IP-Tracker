@@ -22,5 +22,3 @@ https://user-images.githubusercontent.com/55712612/153426736-0ed42844-350e-4697-
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
