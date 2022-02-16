@@ -24,7 +24,7 @@ This is an IP Address Tracker application which gives the IP Location, Time Zone
 ``npm install`` <br><br>
 (4) Run the web application <br>
 ``npm start`` <br><br>
-The application will start at [http://localhost:3000/](http://localhost:3000/) <br>
+The application will start at [http://localhost:3000/](http://localhost:3000/) <br><br>
 (5) Build a production version for deployment <br>
 ``npm run build`` <br><br>
 
