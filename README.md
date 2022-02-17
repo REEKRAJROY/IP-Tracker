@@ -3,7 +3,7 @@
 ![IP Address Tracker - 15 February 2022 (1)](https://user-images.githubusercontent.com/55712612/154151917-4ec7da9b-fcdf-426a-a3df-b75ee9c55a5f.gif)
 
 ## Description ✍️
-This is an IP Address Tracker application which gives the IP Location, Time Zone and ISP of a given IP. To get the IP Address locations [IP Geolocation API by IPify](https://geo.ipify.org/) was used. Map has been generated using [LeafletJS](https://leafletjs.com/). React and TailwindCSS has been used to build the card and map components, and the UI respectively.
+This is an IP Address Tracker application which gives the Location, Time Zone and ISP of a given IP. To get the IP Address locations [IP Geolocation API by IPify](https://geo.ipify.org/) was used. Map has been generated using [LeafletJS](https://leafletjs.com/). React and TailwindCSS has been used to build the card and map components, and the UI respectively.
 
 ## Links 🔗
 - Live Site URL: [Live site](https://iptrackersawo.netlify.app/)
