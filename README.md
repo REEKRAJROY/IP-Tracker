@@ -19,7 +19,7 @@ This is an IP Address Tracker application which gives the IP Location, Time Zone
 (1) Clone this repository <br>
 ``https://github.com/REEKRAJROY/IP-Tracker.git`` <br><br><br>
 (2) Change the working directory <br>
-``cd <name of current working directory>`` <br><br>
+``cd iptrackerupdated`` <br><br>
 (3) Install dependencies <br>
 ``npm install`` <br><br>
 (4) Run the web application <br>
