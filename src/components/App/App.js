@@ -38,11 +38,8 @@ function App() {
         if (response.ok) {
           return response.json()
         }
-        throw new Error('Wrong IP Address entered.')
-      }, networkError => console.log(networkError.message))
-      .then(jsonResponse => {
-        return jsonResponse
-      })
+        alert('Please enter a valid IP address')
+      },)
     return data
   }
 
@@ -61,7 +58,7 @@ function App() {
   return (
     <div className="App">
       <header className='header'>
-        <h1><b>IP Address Tracker</b></h1>
+        <h1><b> IP Address Tracker</b></h1>
         <div className='searchBar'>
           <SearchBar onSearch={handleSearch} onClick={locationInfo} />
         </div>
